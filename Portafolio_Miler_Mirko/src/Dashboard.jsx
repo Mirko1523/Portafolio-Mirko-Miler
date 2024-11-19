@@ -158,8 +158,9 @@ function Dashboard() {
                         <p>Aplicación que muestra los cambios de valor de las criptomonedas más importantes</p>
                     </div>
                     <div className={Style.ProjectsText}>
-                        <a href='https://weath2b.netlify.app/'><h3>Rebrit Proyect</h3></a>
-                        <p>Página web que muestra un dashboard sobre una simulación de un broker.</p>
+                        <a href='https://github.com/Mirko1523/Proyect-Rebrit.git'><h3>Rebrit Proyect</h3></a>
+                        <p>Dejo el repositorio aquí debido a que utilicé una Deploy gratuito de 30 dias, se
+                            puede descargar para verlo de forma local </p>
                     </div>
                 </div>
             </div>
