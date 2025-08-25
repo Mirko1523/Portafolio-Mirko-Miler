@@ -50,58 +50,64 @@ function Dashboard() {
             <div className={Style.backgroundAboutMe}>
                 <h1>Sobre mí</h1>
                 <p>
-                    Soy un desarrollador web especializado en Front End, residente en Gualeguaychú, Entre Ríos, Argentina. He trabajado en varios proyectos, tanto individuales como grupales, donde he adquirido experiencia en diversas tecnologías.
+                    Desarrollador Web especializado en Front End, residente en Gualeguaychú, Entre Ríos, Argentina. He trabajado en varios proyectos, tanto individuales como grupales, donde he adquirido experiencia en diversas tecnologías.
                 </p>
                 <p>
-                    Me destaco en: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Tailwind CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong> y <strong>Redux</strong>.
+                    Me destaco en: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Tailwind CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong> y <strong>Redux</strong> <strong>Redux-Toolkit</strong>.
                 </p>
             </div>
             <hr />
             <div className={Style.backgroundExperiency}>
                 <h1>Experiencia Laboral</h1>
-                <h3>Proyecto InterFoods</h3>
-                <p>
-                    Participé en un proyecto grupal para desarrollar una página web de comida internacional a domicilio. Mi papel consistió en liderar el desarrollo del frontend utilizando tecnologías como <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> y <strong>CSS</strong>.
-                </p>
-                <hr />
-                <h3>Proyecto Dogs</h3>
-                <p>
-                    Desarrollé un proyecto individual creando una página web sobre razas de perros. En el backend, utilicé <strong>JavaScript</strong>, <strong>PostgreSQL</strong>, <strong>SQL Shell</strong>, <strong>Node.js</strong> y <strong>Express</strong>. En el frontend, trabajé con <strong>HTML</strong>, <strong>JavaScript</strong>, <strong>CSS</strong>, <strong>React</strong> y <strong>Redux</strong>.
-                </p>
-                <hr />
-                <h3>Proyecto Calculadora</h3>
-                <p>
-                    Creé una página web FrontEnd de una calculadora desde cero. Realicé el desarrollo del frontend utilizando tecnologías como <strong>HTML</strong>, <strong>TypeScript</strong> y <strong>CSS</strong>.
-                </p>
-                <hr />
-                <h3>Proyecto Juego de Adivinanza</h3>
-                <p>
-                    Desarrollé una página web de un juego de adivinanza desde cero. Trabajé en el desarrollo del frontend utilizando <strong>HTML</strong>, <strong>TypeScript</strong> y <strong>CSS</strong>.
-                </p>
-                <hr />
-                <h3>Proyecto Clima</h3>
-                <p>
-                    Realicé la creación de esta aplicacion FrontEnd  para la búsqueda del clima actual de tu ciudad o de cualquier otra ciudad del mundo. Utilicé una API externa para la obtención de los climas y
-                    en el desarrollo del frontend he utilizado <strong>HTML</strong>, <strong>TypeScript</strong> y <strong>CSS</strong>.
-                </p>
-                <hr />
-                <h3>Proyecto Rating de peliculas</h3>
-                <p>
-                    He creado esta página FrontEnd para conocer la opinión de expertos en tus peliculas favoritas. He utilizado una API externa para obtener las peliculas y
-                    en el desarrollo del frontend he utilizado <strong>HTML</strong>, <strong>TypeScript</strong> y <strong>CSS</strong>.
-                </p>
-                <hr />
-                <h3>Proyecto Crypto Price App</h3>
-                <p>
-                    Proyecto FrontEnd en el cúal he creado una página web que muestra las criptomonedas con sus despectivos valores y los cambios durante las 24 horas del dia. Trabajé con una API externa que me da las criptomonedas y sus valores. En el desarrollo del frontend he trabajado con <strong>HTML</strong>, <strong>JavaScript</strong> y <strong>CSS</strong>.
-                </p>
-                <hr />
-                <h3>Proyecto Rebrit</h3>
-                <p>
-                    Proyecto FullStack en el cúal he creado una página web donde he creado un Dashboard. Trabajé con una BASE DE DATOS creada por mi. En el desarrollo del frontend he trabajado
-                    con <strong>HTML</strong>,  <strong>JavaScript</strong>, <strong>React</strong>, <strong>PostgreSQL</strong> y <strong>Tailwind CSS</strong>.
-                </p>
-                <hr />
+                <h3>Desarrollador Front-End en Rebrit (2024-2025)</h3> 
+                <ul>
+                <li>
+                 Lideré en el desarrollo para crear una plataforma de gestion de Usuarios para Empresas.
+                </li>
+                <hr></hr>
+                <li>
+                 Fui responsable de asegurar una experiencia de usuario fluida y atractiva, ademas de integrar la API.
+                </li>
+                <hr></hr>
+                <li>
+                    Colaboré con el equipo del Back-End para garantizar una integración perfecta entre ambos lados de la aplicación.
+                </li>
+                <hr></hr>
+                <li>
+                    <strong>Stack Tecnológico:</strong> Javascript, React, Redux-Toolkit, Tailwind, Axios.
+                </li>
+                </ul>
+<hr></hr>
+            <h3>Desarrolador web Freelancer en Siim Ingenieria</h3>
+                <ul>
+            <li>
+                Desarrollé una Página Web desde 0 para la Empresa de Ingenieria.
+            </li>
+            <hr></hr>
+            <li>
+                Implementé un diseño responsivo para asegurar una experiencia óptima en dispositivos móviles y de escritorio.
+            </li>
+            <hr></hr>
+            <li>
+                    <strong>Stack Tecnológico:</strong> Javascript, React, Redux-Toolkit, Tailwind, Axios.
+            </li>
+                </ul>
+            <hr></hr>
+
+              <h3>Desarrolador web Freelancer en Faa Agency</h3>
+            <ul>
+                <li>
+                    Estuve encargado de desarrollar una Página Web desde 0 para la Agencia de Marketing Digital.
+                </li>
+                <hr></hr>
+                <li>
+                    Creé un diseño atractivo, responsivo y funcional que reflejara la identidad de la agencia.
+                </li>
+                <hr></hr>
+                <li>
+                    <strong>Stack Tecnológico:</strong> Javascript, React, Redux-Toolkit, Tailwind, Axios.
+                </li>
+            </ul>
             </div>
 
             <div className={Style.education}>
@@ -118,7 +124,7 @@ function Dashboard() {
                     <p><strong>Tailwind</strong></p>
                     <p><strong>JavaScript</strong></p>
                     <p><strong>TypeScript</strong></p>
-                    <p><strong>PostgreSQL</strong></p>
+                    <p><strong>MySql</strong></p>
                     <p><strong>React</strong></p>
                     <p><strong>Redux</strong></p>
                     <p><strong>Next.js</strong></p>
@@ -129,38 +135,30 @@ function Dashboard() {
             <div className={Style.Projects}>
                 <h1>Proyectos</h1>
                 <div className={Style.projectContainer}>
-                    <div className={Style.ProjectsText}>
-                        <a href='https://interfoods.netlify.app/'><h3>InterFoods</h3></a>
-                        <p>Una plataforma donde podrás pedir comida a domicilio de diferentes países latinoamericanos!</p>
+
+                  <div className={Style.ProjectsText}>
+                        <a href='https://criptoprice24hours.netlify.app/'><h3>Siim Ingenieria</h3></a>
+                        <p>Aplicación Web para una empresa Ingeniera Internacional.</p>
+                    </div>
+                      <div className={Style.ProjectsText}>
+                        <a href='https://criptoprice24hours.netlify.app/'><h3>Faa Agency</h3></a>
+                        <p>Página creada ha pedido de una Agencia nacional dedicada al marketing digital.</p>
                     </div>
                     <div className={Style.ProjectsText}>
-                        <a href='https://github.com/Mirko1523/Proyecto-Individual-dogs.git'><h3>Dogs</h3></a>
-                        <p>Página web donde podrás encontrar y crear razas de perros y sus características!</p>
+                        <a href='https://weatherallworld.netlify.app/'><h3>Mkm Agency</h3></a>
+                        <p>Página Web creada para la Agencia Mkm Agency para ofrecer sus Servicios Informaticos</p>
                     </div>
                     <div className={Style.ProjectsText}>
-                        <a href='https://calculadoracalcula.netlify.app/'><h3>Calculadora</h3></a>
-                        <p>Aplicación para realizar cálculos matemáticos</p>
+                        <a href='https://criptoprice24hours.netlify.app/'><h3>Climas</h3></a>
+                        <p>Web en donde podes mirar y buscar el clima en cualquier parte del mundo en cualquier dispositivo.</p>
                     </div>
-                    <div className={Style.ProjectsText}>
-                        <a href='https://juegodeadivinarnumero.netlify.app/'><h3>Adivinanza</h3></a>
-                        <p>¡Un divertido juego donde tendrás que adivinar números del 1 al 100 con infinitos intentos y posibilidades!</p>
-                    </div>
-                    <div className={Style.ProjectsText}>
-                        <a href='https://weatherallworld.netlify.app/'><h3>Clima</h3></a>
-                        <p>Aplicación donde podras buscar el clima de tu ciudad o país.</p>
-                    </div>
-                    <div className={Style.ProjectsText}>
-                        <a href='https://allmoviesrating.netlify.app/'><h3>Rating de peliculas</h3></a>
-                        <p>Encuentra la opinión de los expertos de tus peliculas favoritas.</p>
-                    </div>
-                    <div className={Style.ProjectsText}>
+                      <div className={Style.ProjectsText}>
                         <a href='https://criptoprice24hours.netlify.app/'><h3>Crypto Price App</h3></a>
                         <p>Aplicación que muestra los cambios de valor de las criptomonedas más importantes</p>
                     </div>
-                    <div className={Style.ProjectsText}>
-                        <a href='https://github.com/Mirko1523/Proyect-Rebrit.git'><h3>Rebrit Proyect</h3></a>
-                        <p>Dejo el repositorio aquí debido a que utilicé una Deploy gratuito de 30 dias, se
-                            puede descargar para verlo de forma local </p>
+                      <div className={Style.ProjectsText}>
+                        <a href='https://criptoprice24hours.netlify.app/'><h3>FMA Scalable</h3></a>
+                        <p>Web para Empresa Argentina dedicada al Marketing Digital, Creación y Diseños Web.</p>
                     </div>
                 </div>
             </div>
