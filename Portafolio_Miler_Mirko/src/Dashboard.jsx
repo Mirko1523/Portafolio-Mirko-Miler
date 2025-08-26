@@ -137,19 +137,19 @@ function Dashboard() {
                 <div className={Style.projectContainer}>
 
                   <div className={Style.ProjectsText}>
-                        <a href='https://criptoprice24hours.netlify.app/'><h3>Siim Ingenieria</h3></a>
+                        <a href='https://siimingenieria.com/'><h3>Siim Ingenieria</h3></a>
                         <p>Aplicación Web para una empresa Ingeniera Internacional.</p>
                     </div>
                       <div className={Style.ProjectsText}>
-                        <a href='https://criptoprice24hours.netlify.app/'><h3>Faa Agency</h3></a>
+                        <a href='https://faascalablesp.netlify.app/'><h3>Faa Agency</h3></a>
                         <p>Página creada ha pedido de una Agencia nacional dedicada al marketing digital.</p>
                     </div>
                     <div className={Style.ProjectsText}>
-                        <a href='https://weatherallworld.netlify.app/'><h3>Mkm Agency</h3></a>
+                        <a href='https://mkmagencyforall.netlify.app/'><h3>Mkm Agency</h3></a>
                         <p>Página Web creada para la Agencia Mkm Agency para ofrecer sus Servicios Informaticos</p>
                     </div>
                     <div className={Style.ProjectsText}>
-                        <a href='https://criptoprice24hours.netlify.app/'><h3>Climas</h3></a>
+                        <a href='https://checkweatherall.netlify.app/'><h3>Climas</h3></a>
                         <p>Web en donde podes mirar y buscar el clima en cualquier parte del mundo en cualquier dispositivo.</p>
                     </div>
                       <div className={Style.ProjectsText}>
@@ -157,7 +157,7 @@ function Dashboard() {
                         <p>Aplicación que muestra los cambios de valor de las criptomonedas más importantes</p>
                     </div>
                       <div className={Style.ProjectsText}>
-                        <a href='https://criptoprice24hours.netlify.app/'><h3>FMA Scalable</h3></a>
+                        <a href='https://fmascalable.netlify.app/'><h3>FMA Scalable</h3></a>
                         <p>Web para Empresa Argentina dedicada al Marketing Digital, Creación y Diseños Web.</p>
                     </div>
                 </div>
